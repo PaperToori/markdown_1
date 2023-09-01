@@ -14,3 +14,4 @@ Karl Garratt, genius programmer and *not* a car theif.
 
 #### License
 IDK, just don't resell it as your own ig.
+MIT License
